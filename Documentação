@@ -1,0 +1,37 @@
+Faculdade Estácio
+Alunos:
+Ícaro Eduardo da Silva Ramos | Matrícula: 202101297271
+
+*Projeto de Big Data em Python - Documentação*
+
+*Introdução:*
+Este documento descreve o processo de desenvolvimento de um projeto de Big Data em Python, utilizando o PowerBI e o Jupyter Notebook. O objetivo do projeto é importar uma base de dados, realizar a limpeza e o tratamento dos dados, aplicar filtros e demonstrar o comportamento de diversos visuais/relatórios.
+
+*Requisitos:*
+- Python
+- PowerBI Desktop
+- Jupyter Notebook
+
+*Passo 1: Importação e Limpeza de Dados no PowerBI*
+1. Importe a base de dados para o PowerBI;
+2. Realize a limpeza dos dados, verificando e tratando inconsistências, removendo dados duplicados e preenchendo valores faltantes, caso necessário;
+3. Utilize o PowerQuery para realizar o tratamento dos dados, aplicando transformações como filtro, agrupamento, concatenação, entre outros;
+4. Crie um filtro de visual, que aplicará o filtro somente em um visual específico;
+5. Crie um filtro de relatório, que aplicará o filtro em todos os visuais do relatório;
+6. Demonstre a utilização desses filtros em visuais, utilizando pelo menos 4 tipos diferentes de gráficos (ex: gráfico de barras, segmentador de dados, gráfico de pizza, etc.).
+
+*Passo 2: Manipulação de Dados no Jupyter Notebook*
+1. Abra o Jupyter Notebook;
+2. Crie uma lista de valores aleatórios, como por exemplo, idades dos integrantes de uma sala de aula ou alturas;
+3. Identifique os valores máximo, mínimo e média dessa lista;
+4. Crie uma segunda lista com valores aleatórios;
+5. Crie um dataframe a partir das duas listas criadas, onde as colunas serão compostas pelos elementos das listas;
+6. Realize operações de manipulação de dados nesse dataframe, como por exemplo, ordenação, filtro, agregação, etc.
+
+*Parte 2: Importação e Manipulação de Dados no Jupyter Notebook*
+1. Importe ou crie uma tabela do Excel com pelo menos 5 colunas no Jupyter Notebook;
+2. Quebre essa tabela em duas, dividindo as colunas de forma adequada;
+3. Realize um merge (junção) das duas tabelas utilizando o tipo left join, garantindo que todas as linhas da primeira tabela sejam mantidas, mesmo que não haja correspondência na segunda tabela.
+
+*Conclusão:*
+Este projeto demonstrou o uso de Python, PowerBI e Jupyter Notebook para importar e manipular dados em um ambiente de Big Data. Foram realizadas etapas de limpeza, tratamento, filtragem e demonstração de visuais/relatórios. O objetivo principal foi demonstrar o fluxo de trabalho e as principais funcionalidades dessas ferramentas no contexto de Big Data.
