@@ -5,7 +5,8 @@ Alunos:
 *Projeto de Big Data em Python - Documentação*
 
 *Introdução:*
-Este documento descreve o processo de desenvolvimento de um projeto de Big Data em Python, utilizando o PowerBI e o Jupyter Notebook. O objetivo do projeto é importar uma base de dados, realizar a limpeza e o tratamento dos dados, aplicar filtros e demonstrar o comportamento de diversos visuais/relatórios.
+Este documento descreve o processo de desenvolvimento de um projeto de Big Data em Python, utilizando o PowerBI e o Jupyter Notebook.
+O objetivo do projeto é importar uma base de dados, realizar a limpeza e o tratamento dos dados, aplicar filtros e demonstrar o comportamento de diversos visuais/relatórios.
 
 *Requisitos:*
 - Python
@@ -13,12 +14,12 @@ Este documento descreve o processo de desenvolvimento de um projeto de Big Data 
 - Jupyter Notebook
 
 *Passo 1: Importação e Limpeza de Dados no PowerBI*
-1. Importe a base de dados para o PowerBI;
-2. Realize a limpeza dos dados, verificando e tratando inconsistências, removendo dados duplicados e preenchendo valores faltantes, caso necessário;
-3. Utilize o PowerQuery para realizar o tratamento dos dados, aplicando transformações como filtro, agrupamento, concatenação, entre outros;
-4. Crie um filtro de visual, que aplicará o filtro somente em um visual específico;
-5. Crie um filtro de relatório, que aplicará o filtro em todos os visuais do relatório;
-6. Demonstre a utilização desses filtros em visuais, utilizando pelo menos 4 tipos diferentes de gráficos (ex: gráfico de barras, segmentador de dados, gráfico de pizza, etc.).
+1. A base de dados no PowerBI(base de vendas);
+2. Realizamos a limpeza dos dados, verificando e tratando inconsistências, removendo dados duplicados e preenchendo valores faltantes ou null;
+3. Utilizamos o PowerQuery para realizar o tratamento dos dados, aplicando transformações com os filtro, agrupamento, concatenação, entre outros;
+4. Criamos filtro de visual, que aplicará o filtro somente em um visual específico;
+5. Criamos um filtro de relatório, que aplicará o filtro em todos os visuais do relatório;
+6. Demonstramos a utilização desses filtros em visuais, utilizando pelo menos 4 tipos diferentes de gráficos (ex: gráfico de barras, segmentador de dados, gráfico de pizza, etc.).
 
 *Passo 2: Manipulação de Dados no Jupyter Notebook*
 1. Abra o Jupyter Notebook;
