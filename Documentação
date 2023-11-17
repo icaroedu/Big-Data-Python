@@ -25,12 +25,12 @@ O objetivo do projeto é importar uma base de dados, realizar a limpeza e o trat
 6. Demonstramos a utilização desses filtros em visuais, utilizando pelo menos 4 tipos diferentes de gráficos (ex: gráfico de barras, segmentador de dados, gráfico de pizza, etc.).
 
 *Passo 2: Manipulação de Dados no Jupyter Notebook*
-1. Abra o Jupyter Notebook;
-2. Crie uma lista de valores aleatórios, como por exemplo, idades dos integrantes de uma sala de aula ou alturas;
-3. Identifique os valores máximo, mínimo e média dessa lista;
-4. Crie uma segunda lista com valores aleatórios;
-5. Crie um dataframe a partir das duas listas criadas, onde as colunas serão compostas pelos elementos das listas;
-6. Realize operações de manipulação de dados nesse dataframe, como por exemplo, ordenação, filtro, agregação, etc.
+1. No Jupyter Notebook;
+2. Criamos uma lista de valores de carros, marcas e modelo;
+3. Identificamos os valores máximo, mínimo e média dessa lista;
+4. Criamos uma segunda lista com valores dessas marcas modelo e carro do ano de 2010;
+5. Criamos um dataframe a partir das duas listas criadas, onde as colunas serão compostas pelos elementos das listas;
+6. Realizamos as operações de manipulação de dados nesse dataframe.
 
 *Parte 2: Importação e Manipulação de Dados no Jupyter Notebook*
 1. Importe ou crie uma tabela do Excel com pelo menos 5 colunas no Jupyter Notebook;
