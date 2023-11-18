@@ -18,11 +18,18 @@ O objetivo do projeto é importar uma base de dados, realizar a limpeza e o trat
 
 *Passo 1: Importação e Limpeza de Dados no PowerBI*
 1. A base de dados no PowerBI(base de vendas);
+
 - CadastroClientes
- *Primeiro ajeitamos a navegação, depois promovemos os cabeçalhos que se encontravam na primeira linha da base.
+* Primeiro ajeitamos a navegação, depois promovemos os cabeçalhos que se encontravam na primeira linha da base.
   Segundo passo alteramos o formato da data para Eua(Inglês) pós a formatação da base estava configurada no formato (mm-dd-yyyy).
-  
+  Terceiro passo colocamos cada palavra dos normes em Maiúscula.
+  Alteramos o texto do delimitador, renomeação dessa coluna.
+  Subistitução dos valores 'F' para Feminino e do valor 'M' para Masculino.
+
 - CadastroProdutos
+* Promovemos os cabeçalhos da linha um, alteramos os tipos conforme cada segmento "Num intero ou text".
+  Multiplação do preço unitário 0.85 com desconto, renomeação das colunas, arredondado o preço com desconto.
+  Adcionamos a coluna de tickt para sabermos a prioridade de cada produto.
 - CadastroLojas
 - Calendário
 - BaseDevoluções
