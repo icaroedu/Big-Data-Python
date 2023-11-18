@@ -30,11 +30,26 @@ O objetivo do projeto é importar uma base de dados, realizar a limpeza e o trat
 * Promovemos os cabeçalhos da linha um, alteramos os tipos conforme cada segmento "Num intero ou text".
   Multiplação do preço unitário 0.85 com desconto, renomeação das colunas, arredondado o preço com desconto.
   Adcionamos a coluna de tickt para sabermos a prioridade de cada produto.
+
 - CadastroLojas
+* Alteração dos tipos das colunas, a linha um foi promovida para os cabeçalhos,
+  Alteramos o tipo da coluna 'Gerente'.
+
 - Calendário
+* Promoção dos cabeçalhos da linhas um, alteramos os tipos das colunas, adcionamos a coluna Ano e Mês,
+  Informamos o inicio do mês, trimestre inserido, semana do ano, semana do mês, inicio da semana.
+
 - BaseDevoluções
+* Promovemos a linha um como cabeçalho das colunas,
+  Em seguida alteramos o tipo das colunas.
+
 - BaseVendas
+* Promovemos a linha um como cabeçalho das colunas,
+  Alteranos os tipos das colunas e filtramos a linha.
+
 - Medidas
+* Em medidas não fizemos a utilização dessa tabela portanto só excluimos a mesma.
+
 2. Realizamos a limpeza dos dados, verificando e tratando inconsistências, removendo dados duplicados e preenchendo valores faltantes ou null;
 3. Utilizamos o PowerQuery para realizar o tratamento dos dados, aplicando transformações com os filtro, agrupamento, concatenação, entre outros;
 4. Criamos filtros visuais, que aplicará o filtro somente em um visual específico;
