@@ -50,11 +50,7 @@ O objetivo do projeto é importar uma base de dados, realizar a limpeza e o trat
 - Medidas
 * Em medidas não fizemos a utilização dessa tabela portanto só excluimos a mesma.
 
-2. Realizamos a limpeza dos dados, verificando e tratando inconsistências, removendo dados duplicados e preenchendo valores faltantes ou null;
-3. Utilizamos o PowerQuery para realizar o tratamento dos dados, aplicando transformações com os filtro, agrupamento, concatenação, entre outros;
-4. Criamos filtros visuais, que aplicará o filtro somente em um visual específico;
-5. Criamos um filtro de relatório, que aplicará o filtro em todos os visuais do relatório;
-6. Demonstramos a utilização desses filtros em visuais, utilizando pelo menos 4 tipos diferentes de gráficos (ex: gráfico de barras, segmentador de dados, gráfico de pizza, etc.).
+
 
 *Passo 2: Manipulação de Dados no Jupyter Notebook*
 1. No Jupyter Notebook;
